@@ -14,10 +14,6 @@ We implemented two approaches to develop the poker agent:
    - Incorporated **opponent behavior** and **game state features** to improve decision-making.  
    - Used existing resources such as **random players** and a GitHub repository from classmates to assist development.  
 
-## Technologies Used
-- **Python**
-- **Reinforcement Learning (Q-learning)**
-- **Poker Hand Strength Evaluation**
-- **Game State Encoding**
+
 
 For details on our methodology, analysis, and results, please refer to📄 [Final Report (PDF)](Final_Report.pdf).
